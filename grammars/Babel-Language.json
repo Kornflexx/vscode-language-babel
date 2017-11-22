@@ -169,6 +169,12 @@
           ]
         },
         {
+          "comment": "e.g. 'play': ?.",
+          "name": "meta.chaining.operator.json.js",
+          "begin": "\?\.",
+          "end": ".{1}",
+        },
+        {
           "comment": "e.g. 'play': function(arg1, arg2) { }",
           "name": "meta.function.json.js",
           "begin":
